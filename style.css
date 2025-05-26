@@ -1,0 +1,23 @@
+#Rojo{
+    color: red;
+
+}
+#Azul{
+    color: blue;
+}
+#anaranjado{
+    color: orange;
+}
+#verde{
+    color: green;
+}
+#amarillo{
+    color: yellow;
+}
+.color-title{
+    font-weight: normal;
+}
+img{
+height: 200px;
+width: 200px;
+}
